@@ -1,4 +1,4 @@
-# Deep learning based Surrogate for optimization
+# Deep learning based surrogate model for optimization
 These codes are used to construct the deep learning based surrogate models for fast and accurate optimization. 
 
 The codes in 1.1 - 1.3 optimize discrete variables, locations of wells for fluid production, using CNN-based surrogate models.
